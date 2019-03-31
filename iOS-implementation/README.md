@@ -15,4 +15,4 @@ Click "install"
 
 Pods have now been installed.
 
-Use the new workspace project created for all coding.
+Use the new workspace project created for the rest of app development.
