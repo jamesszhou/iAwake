@@ -4,7 +4,7 @@ As there are two different implementations on iOS and Desktop, these setup instr
 ### Prerequisites
 
 To run the program, the following modules must be installed on the machine:
-  twilio
+  twilio \n
   cmake (used for dlib installation)
   dlib
   opencv
