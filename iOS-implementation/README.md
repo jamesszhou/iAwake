@@ -14,3 +14,5 @@ pod 'EAIntroView'
 Click "install"
 
 Pods have now been installed.
+
+Use the new workspace project created for all coding.
