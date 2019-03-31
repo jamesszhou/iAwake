@@ -1,6 +1,0 @@
-framework module Pods_iAwake {
-  umbrella header "Pods-iAwake-umbrella.h"
-
-  export *
-  module * { export * }
-}
