@@ -6,10 +6,10 @@ Open application\
 Select .xcodeproj\
 Add the following to the Podfile created:
 ```
-pod 'Alamofire'\
-pod 'GoogleMaps'\
-pod 'GooglePlaces'\
-pod 'EAIntroView'\
+pod 'Alamofire'
+pod 'GoogleMaps'
+pod 'GooglePlaces'
+pod 'EAIntroView'
 ```
 Click "install"
 
